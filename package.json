@@ -18,9 +18,9 @@
   },
   "homepage": "https://github.com/wcxaaa/_test-At-clean-webpack-plugin#readme",
   "devDependencies": {
-    "clean-webpack-plugin": "^0.1.17",
-    "nodemon": "^1.12.1",
-    "rimraf": "^2.6.2",
-    "webpack": "^3.7.1"
+    "clean-webpack-plugin": "0.1.17",
+    "nodemon": "1.12.1",
+    "rimraf": "2.6.2",
+    "webpack": "3.7.1"
   }
 }
